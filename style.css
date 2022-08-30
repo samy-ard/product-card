@@ -106,6 +106,7 @@ p {
 
 .product-old-price {
 	display: inline-block;
+	text-decoration: line-through;
 	vertical-align: middle;
 }
 
